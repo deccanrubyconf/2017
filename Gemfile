@@ -4,4 +4,6 @@ ruby '2.5.0'
 
 gem 'github-pages'
 
+gem 'rake'
+
 gem 'compass'
