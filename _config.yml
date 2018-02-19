@@ -17,7 +17,7 @@ paginate:            20
 # Custom vars
 version:             1.0.0
 
-exclude: ['vendor']
+exclude: ['vendor', '/app/_site']
 
 assets:
   js_compressor:  uglifier
