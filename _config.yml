@@ -17,7 +17,7 @@ paginate:            20
 # Custom vars
 version:             1.0.0
 
-exclude: ['vendor', '/app/_site']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
 
 assets:
   js_compressor:  uglifier

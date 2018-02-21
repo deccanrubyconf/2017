@@ -6,4 +6,6 @@ gem 'github-pages'
 
 gem 'rake'
 
+gem 'rack-jekyll'
+
 gem 'compass'
