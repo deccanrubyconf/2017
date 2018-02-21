@@ -7,10 +7,10 @@ markdown:            kramdown
 permalink: /:year/:month/:day/:title.html
 
 # Setup
-title:               'DeccanRubyConf 2016'
+title:               'DeccanRubyConf 2017'
 tagline:             ''
 description:         ''
-url:                 'http://deccanrubyconf.github.io'
+url:                 'http://2017.deccanrubyconf.org'
 baseurl:
 paginate:            20
 
